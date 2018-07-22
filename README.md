@@ -1,2 +1,2 @@
-# CookAssistant
-  A personal ReactNative entry project.(一个ReactNative入门项目)
+# RNCookAssistant
+  A personal ReactNative entry project.(一个ReactNative练习项目)
